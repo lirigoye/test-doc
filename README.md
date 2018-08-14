@@ -1,2 +1,2 @@
 # test-doc
-first project
+My First Project
